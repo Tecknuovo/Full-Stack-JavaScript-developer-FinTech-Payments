@@ -1,5 +1,7 @@
 # Full-Stack-JavaScript-developer-FinTech-Payments 2027  
 
+Mid level software development position for small FinTech Product company working on a payments API and assocaited SDK's
+
 # Stack: JavaScript, TypeScript, Node.js, GraphQL, Docker, Kubernetes – Bonus skills: Rust, Go or Elixir 
 
 Are you a full stack software developer with a couple of years’ experiences who would like to work in a small company where innovation is encouraged? Do you wish you could learn new programming languages as part of your day job? 
