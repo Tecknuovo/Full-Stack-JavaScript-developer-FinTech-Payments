@@ -1,8 +1,6 @@
 # Full-Stack-JavaScript-developer-FinTech-Payments 2027  
 
-# Stack: 
-
-JavaScript, TypeScript, Node.js, GraphQL, Docker, Kubernetes – Bonus skills: Rust, Go or Elixir 
+# Stack: JavaScript, TypeScript, Node.js, GraphQL, Docker, Kubernetes – Bonus skills: Rust, Go or Elixir 
 
 Are you a full stack software developer with a couple of years’ experiences who would like to work in a small company where innovation is encouraged? Do you wish you could learn new programming languages as part of your day job? 
 
@@ -17,9 +15,9 @@ You might really like working for the team at a small FinTech we have just start
 
 # Checklist
 
-Location: Nearest Station London Bridge 
-Salary: Up to £70 000 + bonus + benefits 
-Flexible working: One day a week from home flexible start and finish  
+- Location: Nearest Station London Bridge 
+- Salary: Up to £70 000 + bonus + benefits 
+- Flexible working: One day a week from home flexible start and finish  
 
 Please email oliver.short@tecknuovo.com if you’d like to talk through the above in more detail.
  
